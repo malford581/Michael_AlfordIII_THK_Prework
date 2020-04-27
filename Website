@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<img src="https://www.shutterstock.com/image-vector/isometric-design-concept-virtual-reality-augmented-1565148001" alt="HTML5 Icon" width="500" height="162.5">
+
+<h1>Michael Alford III</h1>
+<p><b>Why are you interested in becoming a TKH Innovation Fellow?</b></p>
+<p> I've always been interested in web development and data science so I did some research and attempted to learn it on my own. It didn't work out as I anticipated because I didn't have someone to explain the information when I got confused. I feel like the TKH Fellowship program will not only teach me coding, but it will be launching pad for a career on the coding field. </p>
+
+<p>My goal for 2020 is to complete The Knowledge House Innovation Fellowship with excellence and full understanding of Web Development and to land an entry level job at a high paying tech company within 3 months of the completion of the program; and eventually implement my dream program, Engineers In Residence.</p>
+</body>
+<title>Title of the document</title>
+      <style>
+         .button {
+         background-color: #808000;
+         border: none;
+         color: white;
+         padding: 18px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+      </style>
+   </head>
+   <body>
+      <a href="https://www.linkedin.com/in/michael-alford-iii-010427114/" class="button">Michael Alford III LinkedIn</a>
+   </body>
+ 
+</div>
+</html>
